@@ -51,7 +51,7 @@ PS (Actividad Regular) comprende el 68% de los tipos de servicios mas solicitado
 
 El manejo de recursos humanos en cualquier organización es primordial para que dicha organización sea competitiva, en este estudio se detecto que el tiempo promedio de espera para para los clientes prioritarios es de 92 segundos, muy lejos de la meta; en base al rendimiento de los  agentes que actualmente laboran, se estimo que para ofrecer un mejor servicio a los clientes prioritarios de sebe incrementar el numero de agentes de llamada de 8 a 13.
 
-Se estimaron las siguientes rcomendaciones:
+Se estimaron las siguientes recomendaciones:
 
 *Optimizar el sistema VRU es importante para reducir el tiempo de espera, por ejemplo, reducir el menú de opciones, es decir, un menú mas largo incrementara el tiempo de espera, hacer las grabaciones mas cortas y precisas.
 
